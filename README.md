@@ -13,7 +13,7 @@
 
 ## 🚀 Projects
 - 🎥 [Cinematherapy](https://github.com/your-username/cinematherapy) – A Flask app that recommends movies based on your mood, with custom advice from “Dr. Ahmed”.
-- 💡 [FocusBoost (WIP)](https://github.com/your-username/focusboost) – A minimalist productivity dashboard for students, inspired by Notion and Pomodoro.
 
 ## 📈 GitHub Stats
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedaqeel&show_icons=true&theme=radical)
+
