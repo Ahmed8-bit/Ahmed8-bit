@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Ahmed Aqeel
 
-<!--
-**Ahmed8-bit/Ahmed8-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Cinematherapy**, a mood-based movie recommendation web app built with Flask.
+- 🌱 I’m currently learning **CS50** and  **Advanced Flask**, 
+- 👯 I’m looking to collaborate on **open-source Flask/React projects** or anything related to mental health and tech.
+- 🤔 I’m looking for help with **deploying full-stack apps and optimizing Flask for production**.
+- 💬 Ask me about **Python, web development, mental health in tech, or cinematography**.
+- 📫 How to reach me: **ahmedaqeel0012@gmail.com**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I’m making a therapist-themed app that “prescribes” movies instead of meds 🎬🧠
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🎥 [Cinematherapy](https://github.com/your-username/cinematherapy) – A Flask app that recommends movies based on your mood, with custom advice from “Dr. Ahmed”.
+- 💡 [FocusBoost (WIP)](https://github.com/your-username/focusboost) – A minimalist productivity dashboard for students, inspired by Notion and Pomodoro.
+
+## 📈 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedaqeel&show_icons=true&theme=radical)
