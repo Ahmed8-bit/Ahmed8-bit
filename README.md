@@ -8,6 +8,7 @@
 - 📫 How to reach me: **ahmedaqeel0012@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I’m making a therapist-themed app that “prescribes” movies instead of meds 🎬🧠
+- “I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.”
 
 ---
 
