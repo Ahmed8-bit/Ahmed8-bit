@@ -16,5 +16,5 @@
 - 🎥 [Cinematherapy](https://cinematherapy.onrender.com) – A Flask app that recommends movies based on your mood, with custom advice from “Dr. Ahmed”.
 
 ## 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedaqeel&show_icons=true&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed8-bit&show_icons=true&theme=radical)
 
