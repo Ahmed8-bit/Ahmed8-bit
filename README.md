@@ -15,7 +15,7 @@
 ## 🚀 Projects
 - 🎥 [Cinematherapy](https://cinematherapy.onrender.com) – A Flask app that recommends movies based on your mood, with custom advice from “Dr. Ahmed”.
 - 🔗 [URL Shortener](https://ahmed8-bit.github.io/Url-shortener/) - A lightweight frontend-only URL shortener built with HTML, JavaScript, and a CORS-friendly API.
-- ⍞  [Random Quote Generator](https://ahmed8-bit.github.io/quote-generator/) - A tech-themed, frontend-only random quote generator built with HTML, CSS, and JavaScript.
+-  ⍞  [Random Quote Generator](https://ahmed8-bit.github.io/quote-generator/) - A tech-themed, frontend-only random quote generator built with HTML, CSS, and JavaScript.
 
 
 ## 📈 GitHub Stats
