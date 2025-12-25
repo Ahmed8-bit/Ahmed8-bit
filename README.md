@@ -1,16 +1,49 @@
-# 👋 Hi there! I'm Ahmed Aqeel
+# 👋 Hi, I’m Ahmed Aqeel
 
-- 🔭 I’m currently working on **Cinematherapy**, a mood-based movie recommendation web app built with Flask.
-- 🌱 I’m currently learning **CS50** and  **Advanced Flask**, 
-- 👯 I’m looking to collaborate on **open-source Flask/React projects** or anything related to mental health and tech.
-- 🤔 I’m looking for help with **deploying full-stack apps and optimizing Flask for production**.
-- 💬 Ask me about **Python, web development, mental health in tech, or cinematography**.
-- 📫 How to reach me: **ahmedaqeel0012@gmail.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I’m making a therapist-themed app that “prescribes” movies instead of meds 🎬🧠
-- “I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.”
+I’m a high-school student focused on **quantitative finance, statistics, and computer science** — building a strong foundation in math-driven problem solving and Python.
 
 ---
+
+## 🔍 Current Focus
+- 📊 **Statistics & Probability** (simulation, expected value, randomness)
+- 🐍 **Python** (CS50P, data analysis, modeling)
+- 📈 **Quantitative Finance** (market data, risk, simple trading strategies)
+- 🧠 Developing intuition for **how randomness and math drive real systems**
+
+---
+
+## 🧪 Projects & Interests
+- 🎲 **Probability & Monte Carlo simulations**
+- 📉 Market data analysis & volatility modeling
+- ⚙️ Backtesting simple trading strategies
+- 🧮 Applying math to real-world financial problems
+
+*(All projects are built to emphasize clarity, logic, and explanation — not just code.)*
+
+---
+
+## 🛠️ Tools & Skills
+- **Languages:** Python
+- **Libraries:** NumPy, Pandas, Matplotlib
+- **Concepts:** Probability, statistics, expected value, time series basics
+- **Workflow:** VS Code, Git, GitHub
+
+---
+
+## 🎯 Long-Term Goal
+Build toward a career in **quantitative finance / financial engineering**, combining:
+- strong mathematics
+- computer science
+- real-world financial modeling
+
+---
+
+## 📫 Contact
+- Email: **ahmedaqeel0012@gmail.com**
+
+---
+
+> “I’m less interested in answers — more interested in models that explain why.”
 
 ## 🚀 Projects
 - 🎥 [Cinematherapy](https://cinematherapy.onrender.com) – A Flask app that recommends movies based on your mood, with custom advice from “Dr. Ahmed”.
